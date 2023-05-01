@@ -5,7 +5,7 @@ galleries:
     url: /demo-gallery
 ---
 
-# Site proto
+# Artiste, Peintre, Musicien
 
 - [toiles](/toiles)
 - [CV](/cv)
