@@ -10,4 +10,4 @@ galleries:
 - [toiles](/toiles)
 - [CV](/cv)
 
-{% if page.galleries %}{% include images-gallery.html %}{% endif %}
+{% if page.galleries %}{% include images-galleries-index.html %}{% endif %}
